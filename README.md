@@ -2,7 +2,6 @@
 
 This project delivers an end-to-end solution for cleaning, analyzing, and reporting construction project data using Python. It transforms raw, inconsistent records into business-ready insights covering material costs, labour utilization, monthly trends, and project status.
 
----
 
 ## 🔍 Scope of Work
 
@@ -48,7 +47,6 @@ All results are exported to a multi-sheet Excel report using XlsxWriter, includi
 
 - Cost efficiency rankings
 
----
 
 ## Use Case:
 
@@ -61,14 +59,3 @@ Stakeholders can use this automated report to track resource usage, compare cost
       - matplotlib
       - seaborn
       - XlsxWriter (Excel export engine)
-
-
-## 📬 Contact
-
-**Michael Mathias**  
-Data Analyst & Python Automation Specialist  
-🔗 [GitHub Profile](https://github.com/chi-matty)
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/michael-matty)
-📧 mathiasmichael2@gmail.com
-
-I'm open to freelance work, collaborations, and volunteering for data-focused projects. Let’s connect.
